@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
-#include <string.h>
+#include <limits.h>
 
 int find_len(char *str);
 char *create_xarray(int size);
